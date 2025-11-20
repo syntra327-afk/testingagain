@@ -1,0 +1,38 @@
+{
+  "name": "toplax-factory-industry-template",
+  "version": "1.0.0",
+  "description": "Toplax Factory & Industry HTML Template - Bolt.new Compatible",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "factory",
+    "industry",
+    "manufacturing",
+    "html-template",
+    "bootstrap",
+    "responsive",
+    "business"
+  ],
+  "author": "Awaiken",
+  "license": "ThemeForest Standard License",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "N/A"
+  },
+  "bolt": {
+    "compatible": true,
+    "entry": "index.html",
+    "framework": "vanilla-html",
+    "assets": {
+      "css": "./css/",
+      "js": "./js/",
+      "images": "./images/",
+      "fonts": "./webfonts/"
+    }
+  }
+}
