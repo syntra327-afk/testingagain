@@ -864,7 +864,7 @@ header.main-header .header-sticky.active{
 .hero{
 	padding: 150px 0 40px;
 	position: relative;
-	background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+	background: url(../'../images/hero-bg.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 }
